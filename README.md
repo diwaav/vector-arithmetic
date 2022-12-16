@@ -9,7 +9,7 @@ List.cpp
 ↳ *Contains list ADT*    
 ListTest.cpp    
 ↳ *Test file, containing my own test of the list adt*    
-BigInteger.h
+BigInteger.h    
 ↳ *Contains header file for BigInteger ADT*    
 BigInteger.cpp    
 ↳ *Contains BigInteger ADT*    
